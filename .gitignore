@@ -1,2 +1,11 @@
 # vevn
 .venv*/
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# macos
+.DS_Store
